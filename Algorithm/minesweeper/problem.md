@@ -1,5 +1,6 @@
 # 지뢰 찾기
-
+난이도 : 중
+예상 소요 시간 : 80분 이상
 
 ## 문제
 
@@ -14,7 +15,6 @@ for i in range(row):
     matrix.append(list(input()))
 ```
 
-==============
 ## 예시
 
 ### Input 1
@@ -50,8 +50,8 @@ for i in range(row):
 3***1
 *4*31
 ~~~
-==================
+----------------
 ## 제출
-이 경로 "Apps/Algorithm/minesweeper"에 자신의 이름(영어)으로 제출하세요
-예) HongGiLDong.py
+이 경로 "Apps/Algorithm/minesweeper"에 자신의 이름(영어)으로 push 하세요.
+예) HongGilDong.py
 
