@@ -1,5 +1,6 @@
 # 지뢰 찾기
 
+
 ## 문제
 
 표준 입력으로 2차원 리스트의 가로(col)와 세로(row)가 입력되고 그 다음 줄부터 리스트의 요소로 들어갈 문자가 입력됩니다. 
@@ -13,6 +14,7 @@ for i in range(row):
     matrix.append(list(input()))
 ```
 
+==============
 ## 예시
 
 ### Input 1
@@ -48,3 +50,8 @@ for i in range(row):
 3***1
 *4*31
 ~~~
+==================
+## 제출
+이 경로 "Apps/Algorithm/minesweeper"에 자신의 이름(영어)으로 제출하세요
+예) HongGiLDong.py
+
