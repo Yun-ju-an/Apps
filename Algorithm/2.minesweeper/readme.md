@@ -52,6 +52,6 @@ for i in range(row):
 ~~~
 ----------------
 ## 제출
-이 경로 "Apps/Algorithm/minesweeper"에 자신의 이름(영어)으로 push 하세요.<br>
+이 경로 "Apps/Algorithm/2.minesweeper"에 자신의 이름(영어)으로 push 하세요.<br>
 예) HongGilDong.py
 
