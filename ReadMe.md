@@ -17,11 +17,11 @@
     + 목적 : Python 기초 문법.
     + 대상 : 주로 1학년 (나머지 학년에겐 복습)
     + 학습 자료 : dojang.io     
-  + 알고리즘/자료구조 (매주 수 예정) 
+  + 알고리즘/자료구조 (매주 화 18:00) 
     + 목적 : 문제 해결 능력 배양 & 코딩 테스트 대비
     + 대상 : python 기초 문법을 익힌 사람 (전 학년 권장)
     + 자료 : Hackerrank.com, leetcode.com
-  + Data Science -> ML (매주 금 예정) 
+  + Data Science -> ML (매주 목 18:00) 
     + 목적 : 데이터를 이용해서 결론 도출 + 보고서 작성 -> 취업시 포트폴리오로 활용
     + 대상 : 3~4학년 권장
     + 자료 : datascienceschool.net, boostcourse.org, kaggle.com, 
